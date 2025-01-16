@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="HoBi" />
+    <title>@ViewData["Title"]</title>
+    <link rel="shortcut icon" href="~/images/ikona.ico" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @await RenderSectionAsync("CSS", required: false)
+</head>
+<body>
+    <header>
+        <div id="logo">
+            <h1>Martin<span>Hrbek</span></h1>
+            <small>webdeveloper</small>
+        </div>
+        <nav>
+            <ul>
+                <li><a asp-controller="Home" asp-action="Index">Domů</a></li>
+                <li><a asp-controller="Articles" asp-action="Index">Články</a></li>
+                <li><a asp-controller="Home" asp-action="Skills">Dovednosti</a></li>
+                <li><a asp-controller="Home" asp-action="References">Reference</a></li>
+                <li><a class="kontakt-tlacitko" asp-controller="Home" asp-action="Contact">Kontakt</a></li>
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    <li><a asp-controller="Account" asp-action="Login">Přihlásit se</a></li>
+                    <li><a asp-controller="Account" asp-action="Register">Registrovat se</a></li>
+                }
+                else
+                {
+                    <li><a asp-controller="Account" asp-action="Logout">Odhlásit se</a></li>
+                }
+            </ul>
+        </nav>
+    </header>
+     <article>
+        <header>
+            <h1>@ViewData["Title"]</h1>
+        </header>
+
+        <section>
+            @RenderBody()
+        </section>
+    </article>
+  <footer>
+        Vytvořil &copy;Martin Hrbek @DateTime.Now.Year pro <a href="https://itnetwork.cz">itnetwork.cz</a>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

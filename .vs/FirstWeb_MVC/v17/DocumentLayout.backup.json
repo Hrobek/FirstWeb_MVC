@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programko\\AspNet\\FirstWeb_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|d:\\programko\\aspnet\\firstweb_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|d:\\programko\\aspnet\\firstweb_mvc\\views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|solutionrelative:views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|d:\\programko\\aspnet\\firstweb_mvc\\views\\home\\references.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|solutionrelative:views\\home\\references.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|d:\\programko\\aspnet\\firstweb_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|d:\\programko\\aspnet\\firstweb_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|d:\\programko\\aspnet\\firstweb_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|d:\\programko\\aspnet\\firstweb_mvc\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|solutionrelative:controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|d:\\programko\\aspnet\\firstweb_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C5B0D-A4D5-4185-B97A-4322C15805CB}|FirstWeb_MVC.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:43:08.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skills.cshtml",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Home\\Skills.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Skills.cshtml",
+              "ToolTip": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Home\\Skills.cshtml",
+              "RelativeToolTip": "Views\\Home\\Skills.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:39:52.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "References.cshtml",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Home\\References.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\References.cshtml",
+              "ToolTip": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Home\\References.cshtml",
+              "RelativeToolTip": "Views\\Home\\References.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:35:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:31:32.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:30:48.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:20:01.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticlesController.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:19:44.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Programko\\AspNet\\FirstWeb_MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:19:42.017Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

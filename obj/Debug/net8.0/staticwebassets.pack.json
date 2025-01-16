@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FirstWeb_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FirstWeb_MVC.dbbiadznnu.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\avataru.jpg",
+      "PackagePath": "staticwebassets\\images\\avataru.jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\csharp.png",
+      "PackagePath": "staticwebassets\\images\\csharp.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\email.png",
+      "PackagePath": "staticwebassets\\images\\email.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\hobi_web.jpg",
+      "PackagePath": "staticwebassets\\images\\hobi_web.jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\hobi_web_nahledu.jpg",
+      "PackagePath": "staticwebassets\\images\\hobi_web_nahledu.jpg"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\ikona.ico",
+      "PackagePath": "staticwebassets\\images\\ikona.ico"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\javascript.png",
+      "PackagePath": "staticwebassets\\images\\javascript.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\react.png",
+      "PackagePath": "staticwebassets\\images\\react.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\webova_ucetni_aplikace.png",
+      "PackagePath": "staticwebassets\\images\\webova_ucetni_aplikace.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\images\\webova_ucetni_aplikace_nahled.png",
+      "PackagePath": "staticwebassets\\images\\webova_ucetni_aplikace_nahled.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\js\\initTinyMCE.js",
+      "PackagePath": "staticwebassets\\js\\initTinyMCE.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\Programko\\AspNet\\FirstWeb_MVC\\wwwroot\\lib\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\lib\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FirstWeb_MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FirstWeb_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FirstWeb_MVC.props",
+      "PackagePath": "build\\FirstWeb_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FirstWeb_MVC.props",
+      "PackagePath": "buildMultiTargeting\\FirstWeb_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FirstWeb_MVC.props",
+      "PackagePath": "buildTransitive\\FirstWeb_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
