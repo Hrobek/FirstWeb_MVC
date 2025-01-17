@@ -1,4 +1,8 @@
 using AspBlog.Data;
+using FirstWeb_MVC;
+using FirstWeb_MVC.Interfaces;
+using FirstWeb_MVC.Managers;
+using FirstWeb_MVC.Repositories;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -24,6 +28,11 @@ namespace AspBlog
             })
             .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+
+            builder.Services.AddScoped<IArticleRepository, ArticleRepository>();
+            builder.Services.AddScoped<ArticleManager>();
 
             var app = builder.Build();
 

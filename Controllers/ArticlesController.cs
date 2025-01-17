@@ -6,26 +6,23 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AspBlog.Data;
+using FirstWeb_MVC.Models;
 using AspBlog.Models;
 using Microsoft.AspNetCore.Authorization;
+using FirstWeb_MVC.Managers;
 
 namespace AspBlog.Controllers
 {
     [Authorize(Roles = UserRoles.Admin)]
-    public class ArticlesController : Controller
+    public class ArticlesController(ArticleManager articleManager) : Controller
     {
-        private readonly ApplicationDbContext _context;
-
-        public ArticlesController(ApplicationDbContext context)
-        {
-            _context = context;
-        }
+        private readonly ArticleManager articleManager = articleManager;
 
         // GET: Articles
         [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Article.ToListAsync());
+            return View(await articleManager.GetAllArticles());
         }
 
         // GET: Articles/Details/5
@@ -37,8 +34,8 @@ namespace AspBlog.Controllers
                 return NotFound();
             }
 
-            var article = await _context.Article
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var article = await articleManager.FindArticleById((int)id);
+                
             if (article == null)
             {
                 return NotFound();
@@ -58,12 +55,11 @@ namespace AspBlog.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Content,Title,Description")] Article article)
+        public async Task<IActionResult> Create([Bind("Id,Content,Title,Description")] ArticleViewModel article)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(article);
-                await _context.SaveChangesAsync();
+                await articleManager.AddArticle(article);
                 return RedirectToAction(nameof(Index));
             }
             return View(article);
@@ -77,7 +73,8 @@ namespace AspBlog.Controllers
                 return NotFound();
             }
 
-            var article = await _context.Article.FindAsync(id);
+            var article = await articleManager.FindArticleById((int)id);
+
             if (article == null)
             {
                 return NotFound();
@@ -90,7 +87,7 @@ namespace AspBlog.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Content,Title,Description")] Article article)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Content,Title,Description")] ArticleViewModel article)
         {
             if (id != article.Id)
             {
@@ -99,23 +96,11 @@ namespace AspBlog.Controllers
 
             if (ModelState.IsValid)
             {
-                try
-                {
-                    _context.Update(article);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!ArticleExists(article.Id))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
+                var updatedArticle = await articleManager.UpdateArticle(article);
+
+                return updatedArticle is null ?
+                    NotFound() :
+                    RedirectToAction(nameof(Index));
             }
             return View(article);
         }
@@ -128,9 +113,9 @@ namespace AspBlog.Controllers
                 return NotFound();
             }
 
-            var article = await _context.Article
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (article == null)
+            var article = await articleManager.FindArticleById((int)id);
+
+;            if (article == null)
             {
                 return NotFound();
             }
@@ -143,19 +128,9 @@ namespace AspBlog.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var article = await _context.Article.FindAsync(id);
-            if (article != null)
-            {
-                _context.Article.Remove(article);
-            }
-
-            await _context.SaveChangesAsync();
+            await articleManager.RemoveArticleWithId(id);
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ArticleExists(int id)
-        {
-            return _context.Article.Any(e => e.Id == id);
-        }
     }
 }

@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DGSz4f8d9udC9BsjPawtB2Go8DMfyu07jkc78yj/RNc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4309"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DGSz4f8d9udC9BsjPawtB2Go8DMfyu07jkc78yj/RNc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 Aug 2024 10:57:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4309"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DGSz4f8d9udC9BsjPawtB2Go8DMfyu07jkc78yj/RNc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jan 2025 02:23:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FirstWeb_MVC/css/site.kin056n2cc.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kin056n2cc"},{"Name":"integrity","Value":"sha256-DGSz4f8d9udC9BsjPawtB2Go8DMfyu07jkc78yj/RNc="},{"Name":"label","Value":"_content/FirstWeb_MVC/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4309"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DGSz4f8d9udC9BsjPawtB2Go8DMfyu07jkc78yj/RNc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 Aug 2024 10:57:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4309"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DGSz4f8d9udC9BsjPawtB2Go8DMfyu07jkc78yj/RNc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jan 2025 02:23:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FirstWeb_MVC/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

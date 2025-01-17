@@ -266,3 +266,5 @@ D:\Programko\AspNet\FirstWeb_MVC\obj\Debug\net8.0\refint\FirstWeb_MVC.dll
 D:\Programko\AspNet\FirstWeb_MVC\obj\Debug\net8.0\FirstWeb_MVC.pdb
 D:\Programko\AspNet\FirstWeb_MVC\obj\Debug\net8.0\FirstWeb_MVC.genruntimeconfig.cache
 D:\Programko\AspNet\FirstWeb_MVC\obj\Debug\net8.0\ref\FirstWeb_MVC.dll
+D:\Programko\AspNet\FirstWeb_MVC\obj\Debug\net8.0\FirstWeb_MVC.sourcelink.json
+D:\Programko\AspNet\FirstWeb_MVC\bin\Debug\net8.0\AutoMapper.dll
